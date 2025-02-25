@@ -8,21 +8,21 @@
     width: 100%;
     background-color: aqua;
 }
-.section2{
+.section{
     display: flex;
     justify-content: space-between;
 }
-.main1{
+.main{
     height: 630px;
     width: 25%;
     background-color: blue;
 }
-.main2{
+.left{
     height: 630px;
     width: 50%;
     background-color: rgb(208, 50, 50);
 }
-.main3{
+.right{
     height: 630px;
     width: 25%;
     background-color:yellow;
